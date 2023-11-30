@@ -1,0 +1,13 @@
+__pycache__/*
+/scikit-image/*
+ytb.db
+geckodriver.log
+main.spec
+ytb_up.egg-info
+*.sqlite
+test-results/*
+assets/videos/*
+build/*
+dist/*
+screen-recording/*
+venv/*
